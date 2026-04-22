@@ -1,0 +1,9 @@
+**/build/
+**/.dart_tool/
+**/.idea/
+**/*.iml
+*.apk
+releases/
+*.log
+.DS_Store
+Thumbs.db
