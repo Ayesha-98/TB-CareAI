@@ -1,0 +1,37 @@
+/* src/components/map.css */
+.leaflet-wrapper {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.leaflet-container {
+  background: #e8f0fe;
+}
+
+/* Custom city marker styles - All dark blue, uniform */
+.custom-city-marker {
+  transition: transform 0.2s;
+}
+
+.custom-city-marker:hover {
+  transform: scale(1.15);
+  cursor: pointer;
+}
+
+/* Popup styling */
+.custom-popup .leaflet-popup-content-wrapper {
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.custom-popup .leaflet-popup-tip {
+  background: white;
+}
+
+/* Province polygon hover effect */
+.leaflet-interactive:hover {
+  fill-opacity: 0.95 !important;
+  stroke-width: 2px !important;
+}
