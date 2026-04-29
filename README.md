@@ -1,7 +1,7 @@
 # TB-CareAI - Tuberculosis Management System
 
 ## 🌐 Live Web Dashboard
-**Access the dashboard here:** https://tbcareappmain.web.app/?v=2
+**Access the dashboard here:** https://tbcareappmain.web.app
 
 > **Note:** If you see a Firebase page, press `Ctrl + Shift + R` to hard refresh or open in Incognito mode.
 
