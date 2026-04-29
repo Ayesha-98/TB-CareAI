@@ -27,11 +27,9 @@ TB-CareAI/
 - **Authentication:** Firebase Auth
 - **Hosting:** Firebase Hosting
 
-## 🔐 Role-Based Access
-| Role | Access |
-|------|--------|
-| CHW | Community Health Worker Dashboard |
-| Patient | Patient Dashboard |
+- **CHW** → Community Health Worker Dashboard
+- **Patient** → Patient Dashboard  
+- **Doctor** → Doctor Dashboard
 
 ## 🚀 Local Development
 ```bash
